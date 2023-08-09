@@ -80,4 +80,4 @@ GreenIno offers an energy-efficient, compact, and portable solution for environm
 
 For more details and instructions on setting up the GreenIno project, please refer to the corresponding source code and documentation. Happy monitoring!
 
-Licence: https://dogukansahil.dev/blog.php?id=7
+Licence: https://dogukansahil.dev/blog.php?id=8
