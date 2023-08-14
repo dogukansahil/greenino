@@ -37,6 +37,8 @@ Real-time data logging was a crucial aspect of the project. CoolTerm, a versatil
 
 ## Conclusion
 GreenIno offers an energy-efficient, compact, and portable solution for environmental monitoring. The wireless technology enables data gathered at one point to be wirelessly received and processed at another location. It provides an ideal solution for monitoring environmental parameters at home, in the office, or any given location.
+![Prototype](https://dogukansahil.dev/images/greenino.jpg)
+
 
 ## Pin Outs
 ### Transmitter
